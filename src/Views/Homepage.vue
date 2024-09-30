@@ -3,8 +3,8 @@ import { ref, onMounted } from 'vue';
 
 import axios from 'axios';
 
-import Button from 'primevue/Button';
-import InputNumber from 'primevue/InputNumber';
+import Button from 'primevue/button';
+import InputNumber from 'primevue/inputnumber';
 import InputGroup from 'primevue/inputgroup';
 import Select from 'primevue/select';
 

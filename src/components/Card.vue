@@ -1,7 +1,7 @@
 <script setup>
 import { defineProps, ref, watch } from 'vue';
 
-import Button from 'primevue/Button';
+import Button from 'primevue/button';
 import Card from 'primevue/card';
 
 const props = defineProps({ data: Object });
